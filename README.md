@@ -1,0 +1,2 @@
+# norboyevjasur.github.io
+fronted 
